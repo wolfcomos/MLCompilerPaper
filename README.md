@@ -25,7 +25,8 @@ Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Acce
 TinyIREE: An ML Execution Environment for Embedded Systems from Compilation to Deployment: https://arxiv.org/abs/2205.14479 \
 Compiling ONNX Neural Network Models Using MLIR: https://arxiv.org/abs/2008.08272 \
 AMD AIE/AIR Design for Xilinx AI engine: https://www.xilinx.com/content/dam/xilinx/publications/presentations/leveraging-mlir-to-design-for-aie-fpga-2023.pdf \
-TVM: An Automated End-to-End Optimizing Compiler for Deep Learning: https://arxiv.org/abs/1802.04799
+TVM: An Automated End-to-End Optimizing Compiler for Deep Learning: https://arxiv.org/abs/1802.04799 \
+TPU-MLIR: https://github.com/sophgo/tpu-mlir
 
 ## Datalayout
 High Performance Zero-Memory Overhead Direct Convolutions: https://arxiv.org/pdf/1809.10170 \
