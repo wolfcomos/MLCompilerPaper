@@ -3,10 +3,12 @@ Study and Interview preps for ML Compilers/Systems
 
 ## Auto Tune:
 MetaTune: Meta-Learning Based Cost Model for Fast and Efficient Auto-tuning Frameworks: https://arxiv.org/abs/2102.04199 \
-A Survey on Compiler Autotuning using Machine Learning: https://arxiv.org/pdf/1801.04405
+A Survey on Compiler Autotuning using Machine Learning: https://arxiv.org/pdf/1801.04405 \
+ACPO: AI-Enabled Compiler-Driven Program Optimization: https://arxiv.org/abs/2312.09982
 
 ## Graph Optimizations:
-Operator Fusion in XLA: Analysis and Evaluation: https://arxiv.org/abs/2301.13062
+Operator Fusion in XLA: Analysis and Evaluation: https://arxiv.org/abs/2301.13062 \
+Mirage: A Multi-Level Superoptimizer for Tensor Programs: https://arxiv.org/abs/2405.05751
 
 ## Graph Scheduler:
 A memory-aware scheduling framework for streaming applications on multicore systems: https://pure.manchester.ac.uk/ws/portalfiles/portal/85778437 \
