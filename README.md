@@ -32,8 +32,8 @@ TPU-MLIR: https://github.com/sophgo/tpu-mlir
 
 ## Datalayout
 High Performance Zero-Memory Overhead Direct Convolutions: https://arxiv.org/pdf/1809.10170 \
-Triton intro: https://superjomn.github.io/posts/triton-mlir-publish/
-
+Triton intro: https://superjomn.github.io/posts/triton-mlir-publish/ \
+Cute: https://github.com/NVIDIA/cutlass/blob/main/media/docs/cute/00_quickstart.md
 
 
 
