@@ -1,5 +1,5 @@
 # ML Compiler Papers & Blogs
-Study and Interview preps for ML Compilers/Systems
+Study for ML Compilers/Systems
 
 ## Auto Tune:
 MetaTune: Meta-Learning Based Cost Model for Fast and Efficient Auto-tuning Frameworks: https://arxiv.org/abs/2102.04199 \
