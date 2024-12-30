@@ -36,5 +36,9 @@ High Performance Zero-Memory Overhead Direct Convolutions: https://arxiv.org/pdf
 Triton intro: https://superjomn.github.io/posts/triton-mlir-publish/ \
 Cute: https://github.com/NVIDIA/cutlass/blob/main/media/docs/cute/00_quickstart.md
 
+## Pruning
+Pattern Based Prunning + Compiler Codesign: https://arxiv.org/abs/2001.00138 \
+Efficient ML: https://hanlab.mit.edu/courses/2024-fall-65940
+
 
 
