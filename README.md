@@ -8,7 +8,7 @@ ACPO: AI-Enabled Compiler-Driven Program Optimization: https://arxiv.org/abs/231
 
 ## Graph Optimizations:
 Operator Fusion in XLA: Analysis and Evaluation: https://arxiv.org/abs/2301.13062 \
-Mirage: A Multi-Level Superoptimizer for Tensor Programs: https://arxiv.org/abs/2405.05751
+Mirage: A Multi-Level Superoptimizer for Tensor Programs: https://arxiv.org/abs/2405.05751 
 
 ## Graph Scheduler:
 A memory-aware scheduling framework for streaming applications on multicore systems: https://pure.manchester.ac.uk/ws/portalfiles/portal/85778437 \
@@ -34,7 +34,8 @@ TT-mlir (best documentation for MLIR I have seen): https://docs.tenstorrent.com/
 ## Datalayout
 High Performance Zero-Memory Overhead Direct Convolutions: https://arxiv.org/pdf/1809.10170 \
 Triton intro: https://superjomn.github.io/posts/triton-mlir-publish/ \
-Cute: https://github.com/NVIDIA/cutlass/blob/main/media/docs/cute/00_quickstart.md
+Cute: https://github.com/NVIDIA/cutlass/blob/main/media/docs/cute/00_quickstart.md \
+Graphene by NVIDIA: https://dl.acm.org/doi/pdf/10.1145/3582016.3582018
 
 ## Pruning
 Pattern Based Prunning + Compiler Codesign: https://arxiv.org/abs/2001.00138 \
