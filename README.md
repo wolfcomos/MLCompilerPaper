@@ -8,7 +8,9 @@ ACPO: AI-Enabled Compiler-Driven Program Optimization: https://arxiv.org/abs/231
 
 ## Graph Optimizations:
 Operator Fusion in XLA: Analysis and Evaluation: https://arxiv.org/abs/2301.13062 \
-Mirage: A Multi-Level Superoptimizer for Tensor Programs: https://arxiv.org/abs/2405.05751 
+Mirage: A Multi-Level Superoptimizer for Tensor Programs: https://arxiv.org/abs/2405.05751 \
+APOLLO: AUTOMATIC PARTITION-BASED OPERATOR FUSION THROUGH LAYER BY LAYER OPTIMIZATION: https://proceedings.mlsys.org/paper_files/paper/2022/file/e175e8a86d28d935be4f43719651f86d-Paper.pdf \
+DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion: https://arxiv.org/abs/2108.13342
 
 ## Graph Scheduler:
 A memory-aware scheduling framework for streaming applications on multicore systems: https://pure.manchester.ac.uk/ws/portalfiles/portal/85778437 \
